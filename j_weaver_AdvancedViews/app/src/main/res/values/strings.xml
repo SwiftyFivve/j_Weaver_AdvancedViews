@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">j_weaver_AdvancedViews</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string-array name="spinner_stuff">
+        <item>Charlie Kelly</item>
+        <item>Dee Reynolds</item>
+        <item>Mac</item>
+        <item>Frank Reynolds</item>
+        <item>Dennis Reynolds</item>
+        <item>Waitress</item>
+    </string-array>
+
+</resources>
